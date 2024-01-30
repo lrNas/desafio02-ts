@@ -1,7 +1,7 @@
 export const Footer  = () => {
   return(
     <div>
-      Footer
+      Editado por Lucas Rodrigues
     </div>
   )
 }
